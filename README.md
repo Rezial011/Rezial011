@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rezial011&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rezial011&theme=dracula&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&sideLabels=8AD4F3&sideNums=F9F6F5&currStreakNum=F9F6F6&hide_border=true" alt="GitHub streak Card" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rezial011&theme=dracula&hide_border=true&sideNums=F9F6F5&sideLabels=8AD4F3&currStreakNum=F9F6F6" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left">
