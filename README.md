@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 -->
 ![👋 Hi, my name is Dafa](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+<style>
+  @media(max-width:576px) {
+    .stat {
+      width : 100%;
+    }
+  }
+</style>
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -41,10 +49,10 @@ Here are some ideas to get you started:
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img style="@media(max-width:576px) {width: 100%;}" width="48%" src="https://github-readme-stats.vercel.app/api?username=rezial011&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
-  <a href="https://git.io/streak-stats"><img style="@media(max-width:576px) {width: 100%;}" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rezial011&theme=dracula&hide_border=true&sideNums=F9F6F5&sideLabels=8AD4F3&currStreakNum=F9F6F6" alt="GitHub Streak" /></a>
+  <img class="stat" width="48%" src="https://github-readme-stats.vercel.app/api?username=rezial011&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=true" alt="GitHub stats Card" />
+  <a href="https://git.io/streak-stats"><img class="stat" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rezial011&theme=dracula&hide_border=true&sideNums=F9F6F5&sideLabels=8AD4F3&currStreakNum=F9F6F6" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left">
-  <img style="@media(max-width:576px) {width: 100%;}" class="stat" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezial011&theme=dracula&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
+  <img class="stat" class="stat" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezial011&theme=dracula&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
 </p>
