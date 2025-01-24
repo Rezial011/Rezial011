@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 -->
 ![👋 Hi, my name is Dafa](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<style>
-  @media(max-width:576px) {
-    .stat {
-      width : 100%;
-    }
-  }
-</style>
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
