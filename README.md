@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Dafa
+        👋 Hi, I'm Dafa
       </h1>
     </summary>
   </ul>
